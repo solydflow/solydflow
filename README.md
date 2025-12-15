@@ -114,7 +114,7 @@ SolydFlow does not process card data directly. We delegate sensitive transaction
 ---
 
 <p align="center">
-  Built with ❤️ in Lagos & Nairobi.
+  Built with you in mind.
   <br>
   <a href="https://solydflow.com">Get Early Access</a>
 </p>
