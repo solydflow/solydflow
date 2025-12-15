@@ -118,4 +118,3 @@ SolydFlow does not process card data directly. We delegate sensitive transaction
   <br>
   <a href="https://solydflow.com">Get Early Access</a>
 </p>
-```
